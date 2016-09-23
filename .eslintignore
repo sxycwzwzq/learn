@@ -1,0 +1,5 @@
+docs/gen/*
+apps/datascience/helpers/planout.js
+apps/datascience/models/namespace.js
+apps/cms/assets/availability_parser.js
+
