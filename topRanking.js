@@ -2,6 +2,7 @@
  * Created by ben on 9/26/16.
  */
 const fs = require('fs');
+
 const readline = require('readline');
 
 // const request = require('request');
