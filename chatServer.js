@@ -26,6 +26,8 @@ const server = net.createServer((socket) => {
 
   socket.on('data', (data) => {
     broadcast(`${socket.name}> ${data}`, socket);
+    // a: split server
+    // b: word Count
   });
 
   socket.on('end', () => {
